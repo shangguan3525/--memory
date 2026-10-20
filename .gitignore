@@ -6,3 +6,6 @@ memory/.obsidian/plugins/*/data.json
 
 # 旧骨架 / 临时
 _legacy/
+
+# 需要私密：取消下一行注释，生活类笔记就不进版本库（代价：失去历史回滚）
+# memory/notes/life-*.md
