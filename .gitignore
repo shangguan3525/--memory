@@ -1,0 +1,8 @@
+# Obsidian 本地状态（每台机器不同，不应进版本库）
+memory/.obsidian/workspace.json
+memory/.obsidian/workspace-mobile.json
+memory/.obsidian/cache/
+memory/.obsidian/plugins/*/data.json
+
+# 旧骨架 / 临时
+_legacy/

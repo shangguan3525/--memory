@@ -1,0 +1,6 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes",
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": ["_legacy/", "tools/"]
+}
