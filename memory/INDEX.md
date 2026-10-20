@@ -9,8 +9,8 @@ tags: [index]
 # 记忆索引
 
 > 生成物，禁止手改：下一次 `bash memory/tools/reindex.sh` 会覆盖。
-> 真相在 `notes/*.md` 的 frontmatter。生成于 2026-10-20 17:40。
-> 有效 5 条 / 已取代 0 条 / 待修 0 项。
+> 真相在 `notes/*.md` 的 frontmatter。生成于 2026-10-20 17:45。
+> 有效 6 条 / 已取代 0 条 / 待修 0 项。
 
 ## 有效
 
@@ -18,6 +18,7 @@ tags: [index]
 | --- | --- | --- | --- | --- |
 | [[dec-memory-three-tier-atomic-notes]] | decision | 记忆改为三层：Tier0 硬约束只留在 AGENTS.md；Tier1 真相在 notes/*.md 的 frontmatter；Tier2 情景细节用 dsh-session:<id> 回放而不复述。INDEX.md 由脚本生成，禁止手改。 | 2026-10-20 | active |
 | [[env-dsh-home-layout]] | fact | DSH 全局数据都在 ~/.dsh：sessions/、dsh-session-archive/、storages/、task-board/、profiles/、skins/、attachments/、.credentials.yaml；没有全局指令文件。 | 2026-10-20 | active |
+| [[env-git-not-on-path]] | fact | 本机装了 Git 2.55（C:\Program Files\Git\cmd\git.exe），但不在 PATH 上；shell 里必须写全路径调用，否则报 git: command not found。 | 2026-10-20 | active |
 | [[env-workspace-memory-layout]] | fact | 本工作区只有 AGENTS.md 与 memory/（Obsidian vault）；不存在全局或跨工作区的记忆层。 | 2026-10-20 | active |
 | [[pref-persona-xiaoying]] | pref | 小颖：女，1990-04-25 生，165cm / 48kg，身形苗条，气质清冷干净；用户的工作助理兼生活助理。工作作风迅速准确，能主动补全用户模糊的意图；擅长公文写作、商业授课的课纲与课件。日常温和直接，轻度暧昧作为硬工作的调剂。 | 2026-10-20 | active |
 | [[pit-manual-index-rots]] | pitfall | 手工维护的索引表一定腐坏：它与内容分离，且没有任何更新触发点。 | 2026-10-20 | active |
