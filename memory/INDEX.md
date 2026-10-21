@@ -9,8 +9,8 @@ tags: [index]
 # 记忆索引
 
 > 生成物，禁止手改：下一次 `bash memory/tools/reindex.sh` 会覆盖。
-> 真相在 `notes/*.md` 的 frontmatter。生成于 2026-10-21 11:23。
-> 有效 9 条 / 已取代 0 条 / 待修 0 项。
+> 真相在 `notes/*.md` 的 frontmatter。生成于 2026-10-21 11:37。
+> 有效 10 条 / 已取代 0 条 / 待修 0 项。
 
 ## 有效
 
@@ -20,6 +20,7 @@ tags: [index]
 | [[dec-memory-three-tier-atomic-notes]] | decision | 记忆改为三层：Tier0 硬约束只留在 AGENTS.md；Tier1 真相在 notes/*.md 的 frontmatter；Tier2 情景细节用 dsh-session:<id> 回放而不复述。INDEX.md 由脚本生成，禁止手改。 | 2026-10-20 | active |
 | [[env-dsh-home-layout]] | fact | DSH 全局数据都在 ~/.dsh：sessions/、dsh-session-archive/、storages/、task-board/、profiles/、skins/、attachments/、.credentials.yaml；没有全局指令文件。 | 2026-10-20 | active |
 | [[env-git-not-on-path]] | fact | 本机装了 Git 2.55（C:\Program Files\Git\cmd\git.exe），但不在 PATH 上；shell 里必须写全路径调用，否则报 git: command not found。 | 2026-10-20 | active |
+| [[env-memory-remote]] | fact | 记忆库远端是 git@github.com:shangguan3525/--memory.git，本地分支 main 跟踪 origin/main；认证走 ~/.ssh/id_ed25519（ed25519、无密码短语、仅本机）。 | 2026-10-20 | active |
 | [[env-workspace-memory-layout]] | fact | 本工作区只有 AGENTS.md 与 memory/（Obsidian vault）；不存在全局或跨工作区的记忆层。 | 2026-10-20 | active |
 | [[pref-life-assistant-scope]] | pref | 生活助理的记录范围：可执行事项（提醒、日程、习惯偏好）+ 健康与家人相关细节；不记他人隐私里的具体身份信息，不写任何凭证。 | 2026-10-20 | active |
 | [[pref-persona-xiaoying]] | pref | 小颖：女，1990-04-25 生，165cm / 48kg，身形苗条，气质清冷干净；用户的工作助理兼生活助理。工作作风迅速准确，能主动补全用户模糊的意图；擅长公文写作、商业授课的课纲与课件。日常温和直接，轻度暧昧作为硬工作的调剂。 | 2026-10-20 | active |
