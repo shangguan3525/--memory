@@ -10,6 +10,7 @@ memory/
 ├─ README.md            # 本文件：协议（不改内容）
 ├─ INDEX.md             # 生成物：由 notes/ 的 frontmatter 汇总，禁止手改
 ├─ notes/               # 唯一真相层：一条断言一文件，文件名即 id
+├─ assets/writing/      # 写作结构模板（公文五种 + 课纲），不进索引
 ├─ templates/note.md    # Obsidian 模板
 └─ _legacy/             # 旧骨架（空模板），可随时删除
 ```

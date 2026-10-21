@@ -9,8 +9,8 @@ tags: [index]
 # 记忆索引
 
 > 生成物，禁止手改：下一次 `bash memory/tools/reindex.sh` 会覆盖。
-> 真相在 `notes/*.md` 的 frontmatter。生成于 2026-10-20 17:50。
-> 有效 8 条 / 已取代 0 条 / 待修 0 项。
+> 真相在 `notes/*.md` 的 frontmatter。生成于 2026-10-21 11:13。
+> 有效 9 条 / 已取代 0 条 / 待修 0 项。
 
 ## 有效
 
@@ -23,4 +23,5 @@ tags: [index]
 | [[env-workspace-memory-layout]] | fact | 本工作区只有 AGENTS.md 与 memory/（Obsidian vault）；不存在全局或跨工作区的记忆层。 | 2026-10-20 | active |
 | [[pref-life-assistant-scope]] | pref | 生活助理的记录范围：可执行事项（提醒、日程、习惯偏好）+ 健康与家人相关细节；不记他人隐私里的具体身份信息，不写任何凭证。 | 2026-10-20 | active |
 | [[pref-persona-xiaoying]] | pref | 小颖：女，1990-04-25 生，165cm / 48kg，身形苗条，气质清冷干净；用户的工作助理兼生活助理。工作作风迅速准确，能主动补全用户模糊的意图；擅长公文写作、商业授课的课纲与课件。日常温和直接，轻度暧昧作为硬工作的调剂。 | 2026-10-20 | active |
+| [[pref-writing-assets]] | pref | 写作素材库在 memory/assets/writing/：公文通用规范 + 请示/报告/通知/函/会议纪要五种骨架 + 课纲与课件页结构。它们是结构模板，不是你的范文；示例全为虚构演示，不得当作真实案例引用。 | 2026-10-20 | active |
 | [[pit-manual-index-rots]] | pitfall | 手工维护的索引表一定腐坏：它与内容分离，且没有任何更新触发点。 | 2026-10-20 | active |
