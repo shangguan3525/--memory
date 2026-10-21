@@ -98,4 +98,10 @@ if (issues.length) {
 
 writeFileSync(join(memDir, "INDEX.md"), lines.join("\n"), "utf8");
 console.log("reindex: active=" + active.length + " superseded=" + superseded.length + " issues=" + issues.length);
+if (active.length > 40) {
+  console.log("  ! 有效笔记已达 " + active.length + " 条（软上限 40）：把失去价值的条目 status 改为 superseded，或移入 notes/_archive/");
+}
+if (entries.length && superseded.length > active.length) {
+  console.log("  ! 已取代条目多于有效条目（" + superseded.length + " vs " + active.length + "）：该整理归档了");
+}
 for (const i of issues) console.log("  ! " + i);
