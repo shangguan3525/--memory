@@ -9,7 +9,7 @@ tags: [index]
 # 记忆索引
 
 > 生成物，禁止手改：下一次 `bash memory/tools/reindex.sh` 会覆盖。
-> 真相在 `notes/*.md` 的 frontmatter。生成于 2026-10-21 11:37。
+> 真相在 `notes/*.md` 的 frontmatter。生成于 2026-10-21 11:50。
 > 有效 10 条 / 已取代 0 条 / 待修 0 项。
 
 ## 有效
